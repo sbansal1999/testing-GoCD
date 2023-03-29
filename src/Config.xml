@@ -1,0 +1,6 @@
+<pipeline name="Something-Else">
+  <trackingtool
+    link="https://testing-zulip0.zulipchat.com/api/v1/external/gocd?api_key=socegMhhFvtVZdkg9p4XcnLcPv2BWSb9&stream=gocd&id=${ID}"
+    regex="##(\d+)"
+  />
+</pipeline>
